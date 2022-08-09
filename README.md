@@ -8,7 +8,6 @@ I am a Full Stack Web Developer 🌐, App Developer 📱
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working at [JN Moura](https://www.jnmoura.com.br/pt-br/)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](linkedin.com/in/julian-lopez-78400a17a)
 - 📚 &nbsp; I like to learn new things;
 
